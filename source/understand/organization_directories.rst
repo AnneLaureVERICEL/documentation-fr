@@ -20,11 +20,11 @@ Un fichier peut être :
 * Exécutable ou non exécutable
 * Fourni par le developpeur ou le logiciel, ou généré par le logiciel
 
-Cela donne 4 usage possibles. Chacun d'eux a un répertoire dans :file:`~/public/` :
+Cela donne 4 usages possibles. Chacun d'eux a un répertoire dans :file:`~/public/` :
 
-* :file:`~/public/static/` : Équivalent des ``assets``. Des fichiers non exécutables fourni par le développeur ou Novius OS.
+* :file:`~/public/static/` : Équivalent des ``assets``. Des fichiers non exécutables fournis par le développeur ou Novius OS.
 * :file:`~/public/data/` : Fichiers non exécutables générés par Novius OS.
-* :file:`~/public/htdocs/` : Fichiers exécutables fourni par par le développeur ou Novius OS.
+* :file:`~/public/htdocs/` : Fichiers exécutables fournis par par le développeur ou Novius OS.
 * :file:`~/public/cache/` : Fichiers exécutables générés par Novius OS
 
 .. note:: Ici, Novius OS fait référence au core, ou toute application de votre site web.
